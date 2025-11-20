@@ -131,8 +131,6 @@ platforms:
   #   name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
-  - id: "hupu"
-    name: "虎扑"
 
   # === 科技类平台 ===
   - id: "ithome"
